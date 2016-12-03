@@ -1,0 +1,42 @@
+body{
+	background-image: url("https://media.tenor.co/images/65bc3ade1032d7a5a60349109c3a9823/raw");
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	background-color: white;
+}
+ #helix {
+ 	background-color: white;
+ 	width: 300px;
+ 	height: 500px;
+ 	padding:25px;
+ 	border: 25px blue;
+ 	margin: 25px;
+ }
+#cats{
+	background-color: white;
+	width: 300px;
+	height: 500px;
+	padding:25px;
+ 	border: 25px blue;
+ 	margin: 25px;
+}
+#fist{
+	background-color: white;
+	width: 300px;
+	height: 500px;
+	padding:25px;
+ 	border: 25px blue;
+ 	margin: 25px;
+
+}
+.pet{
+	display: inline-block;
+}
+#finish{
+	background-image: url("http://www.vizzed.com/videogames/gen/screenshot/Yeth%20(beta%203)-1.png");
+	text-align: center;
+	color: white;
+}
